@@ -1,4 +1,4 @@
-# 👩🏻‍💻 gISSELI sILVA
+# 👩🏻‍💻 Gisseli Silva
 
 Me chamo gISSELI rOCHA sILVA, tenho 17 anos e sou natural de itatiaia Rj. Estou cursando o 3° ano do ensino médio. Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas no SENAI - Firjan. 
 
