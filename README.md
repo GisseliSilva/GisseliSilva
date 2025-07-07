@@ -30,6 +30,7 @@ Me chamo Gisseli Rocha Silva, tenho 17 anos e sou natural de itatiaia Rj. Estou 
 />
 <br></br>
 ### ⚙️ Analytics 
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayane-fonseca&layout=compact&count_private=true)
 
 ### Let's connect? 🤝 
  
@@ -38,5 +39,3 @@ Me chamo Gisseli Rocha Silva, tenho 17 anos e sou natural de itatiaia Rj. Estou 
 <a href="mailto:rochagisseli83@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <p align="center"><img src="https://emojis.slackmojis.com/emojis/images/1450319445/46/question.gif?1450319445"/></p>  <h3 align="center">Dúvidas ou sugestões? Entre em contato comigo! </h3></p>
-
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayane-fonseca&layout=compact&count_private=true)
